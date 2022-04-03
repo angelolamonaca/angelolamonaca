@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+
+### I'm [Angelo](https://angeloslife.com/), I love programming 💻  and I also like videogames ✨
+
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning 3d computer graphics
+- 💬 Ask me about my life goals
+- 📫 How to reach me: https://www.linkedin.com/in/angelolamonaca/
+
+[![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelolamonaca&show_icons=true)](https://github.com/angelolamonaca)
 
 <!--
 **angelolamonaca/angelolamonaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
