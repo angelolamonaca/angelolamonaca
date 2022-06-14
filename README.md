@@ -3,7 +3,7 @@
 ### I'm [Angelo](https://angeloslife.com/), I love programming 💻  and I also like videogames ✨
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning 3d computer graphics
+- 🌱 I’m currently learning 3d computer graphics 🎮 Take a look on my Website https://angeloslife.com
 - 💬 Ask me about my life goals
 - 📫 How to reach me: https://www.linkedin.com/in/angelolamonaca/
 
