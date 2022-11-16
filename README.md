@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### I'm [Angelo](https://angeloslife.com/), I love programming 💻  and I also like videogames ✨
+### I'm [Angelo](https://angeloslife.com/), I love programming 💻
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning 3d computer graphics 🎮 Take a look on my Website https://angeloslife.com
