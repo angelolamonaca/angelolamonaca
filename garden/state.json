@@ -3,14 +3,21 @@
   "plantedOn": "2024-01-19",
   "crop": {
     "number": 1,
-    "water": 30,
+    "water": 35,
     "goal": 100,
     "plantedAt": "2024-01-19T16:00:11Z"
   },
   "harvests": [],
   "gardeners": {},
-  "ownerDrops": 30,
+  "ownerDrops": 35,
   "log": [
+    {
+      "at": "2026-10-29T01:02:56.347Z",
+      "who": "angelolamonaca",
+      "kind": "visitor",
+      "drops": 5,
+      "issue": 1
+    },
     {
       "at": "2026-10-29T00:47:47.873Z",
       "who": "angelolamonaca",
@@ -18,8 +25,12 @@
       "drops": 30
     }
   ],
-  "lastWatered": {},
-  "processedIssues": [],
+  "lastWatered": {
+    "angelolamonaca": "2026-10-29T01:02:56.347Z"
+  },
+  "processedIssues": [
+    1
+  ],
   "contribCursor": "2026-10-28",
-  "rev": 1
+  "rev": 2
 }
