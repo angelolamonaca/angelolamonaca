@@ -8,6 +8,7 @@
 //   node scripts/garden.mjs preview   local gallery of every stage in preview/
 
 import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -37,14 +38,31 @@ const write = (rel, content) => {
 };
 const isoDay = (t) => new Date(t).toISOString().slice(0, 10);
 
+// Images get content-hashed names: GitHub's raw/main redirect drops query
+// strings and its CDN caches each path for 5 minutes, so a new name is the
+// only way a fresh drawing shows up right away.
+function asset(name, content) {
+  const hash = createHash('sha1').update(content).digest('hex').slice(0, 8);
+  const file = `${name}.${hash}.svg`;
+  const dir = path.join(ROOT, 'garden');
+  fs.mkdirSync(dir, { recursive: true });
+  for (const f of fs.readdirSync(dir)) {
+    if (f.startsWith(`${name}.`) && f.endsWith('.svg') && f !== file) fs.rmSync(path.join(dir, f));
+  }
+  write(`garden/${file}`, content);
+  return `garden/${file}`;
+}
+
 function render(state, now = new Date()) {
-  write('garden/scene-day.svg', renderScene(state, { mode: 'day', now }));
-  write('garden/scene-night.svg', renderScene(state, { mode: 'night', now }));
-  write('garden/garage-day.svg', renderGarage(state, { mode: 'day' }));
-  write('garden/garage-night.svg', renderGarage(state, { mode: 'night' }));
-  write('garden/button.svg', renderButton());
+  const files = {
+    sceneDay: asset('scene-day', renderScene(state, { mode: 'day', now })),
+    sceneNight: asset('scene-night', renderScene(state, { mode: 'night', now })),
+    garageDay: asset('garage-day', renderGarage(state, { mode: 'day' })),
+    garageNight: asset('garage-night', renderGarage(state, { mode: 'night' })),
+    button: asset('button', renderButton()),
+  };
   const stl = toStl(carMesh(designFor(state.crop.number)), `crop${state.crop.number}`);
-  write('README.md', renderReadme(state, { stl, now }));
+  write('README.md', renderReadme(state, { stl, now, files }));
 }
 
 const progress = (s) => `${s.crop.water}/${s.crop.goal}`;

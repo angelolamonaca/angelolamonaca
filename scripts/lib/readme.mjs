@@ -41,12 +41,11 @@ function logLine(e) {
   }
 }
 
-export function renderReadme(state, { stl, now = new Date() }) {
+export function renderReadme(state, { stl, now = new Date(), files }) {
   const { crop } = state;
   const g = Math.min(1, crop.water / crop.goal);
   const stage = stageOf(g);
   const design = designFor(crop.number);
-  const v = `?v=${state.rev}`;
   const url = waterUrl();
   const ripe = crop.water >= crop.goal - 1;
   const days = daysBetween(state.plantedOn, now);
@@ -71,12 +70,12 @@ export function renderReadme(state, { stl, now = new Date() }) {
 
 <a href="${url}">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.svg${v}">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #${crop.number}: ${STAGES[stage].toLowerCase()}, ${crop.water} of ${crop.goal} drops." src="garden/scene-day.svg${v}" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="${files.sceneNight}">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #${crop.number}: ${STAGES[stage].toLowerCase()}, ${crop.water} of ${crop.goal} drops." src="${files.sceneDay}" width="100%">
 </picture>
 </a>
 
-<a href="${url}"><img alt="Water the car" src="garden/button.svg${v}" height="64"></a>
+<a href="${url}"><img alt="Water the car" src="${files.button}" height="64"></a>
 
 ${status}<br>
 <sub>I planted a toy car on ${date(state.plantedOn)} and told you to just wait. It sprouted ${num(sproutDays)} days later.<br>
@@ -96,8 +95,8 @@ ${lines.length ? `<details>\n<summary>Latest drops</summary>\n\n${lines.map((l) 
 ### 🏁 The garage
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/garage-night.svg${v}">
-  <img alt="${state.harvests.length ? `${state.harvests.length} harvested cars` : 'The garage, still empty'}" src="garden/garage-day.svg${v}" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="${files.garageNight}">
+  <img alt="${state.harvests.length ? `${state.harvests.length} harvested cars` : 'The garage, still empty'}" src="${files.garageDay}" width="100%">
 </picture>
 
 ### 🧊 Spoiler

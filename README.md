@@ -4,12 +4,12 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.svg?v=2">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #1: seedling, 35 of 100 drops." src="garden/scene-day.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.88f8555f.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #1: seedling, 35 of 100 drops." src="garden/scene-day.761d2d49.svg" width="100%">
 </picture>
 </a>
 
-<a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._"><img alt="Water the car" src="garden/button.svg?v=2" height="64"></a>
+<a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._"><img alt="Water the car" src="garden/button.0b5f59c5.svg" height="64"></a>
 
 **Crop #1 · Seedling · 💧 35 / 100 drops**<br>
 <sub>I planted a toy car on 19 Jan 2024 and told you to just wait. It sprouted 1,014 days later.<br>
@@ -35,8 +35,8 @@ _Nobody yet. The first drop could be yours._
 ### 🏁 The garage
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/garage-night.svg?v=2">
-  <img alt="The garage, still empty" src="garden/garage-day.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/garage-night.44be94f0.svg">
+  <img alt="The garage, still empty" src="garden/garage-day.d93dd0d7.svg" width="100%">
 </picture>
 
 ### 🧊 Spoiler
