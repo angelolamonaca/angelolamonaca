@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "plantedOn": "2024-01-19",
+  "crop": {
+    "number": 1,
+    "water": 30,
+    "goal": 100,
+    "plantedAt": "2024-01-19T16:00:11Z"
+  },
+  "harvests": [],
+  "gardeners": {},
+  "ownerDrops": 30,
+  "log": [
+    {
+      "at": "2026-10-29T00:47:47.873Z",
+      "who": "angelolamonaca",
+      "kind": "sprouted",
+      "drops": 30
+    }
+  ],
+  "lastWatered": {},
+  "processedIssues": [],
+  "contribCursor": "2026-10-28",
+  "rev": 1
+}

@@ -1,0 +1,4 @@
+preview/
+garden/.outbox.json
+garden/.commit-message
+.DS_Store

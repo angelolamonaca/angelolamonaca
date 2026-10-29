@@ -1,0 +1,45 @@
+name: Water the car
+
+# Someone clicked the 💧 button: count their drops, redraw, reply, close.
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+# Shared with the daily run so two pushes never race. A run that gets
+# cancelled while pending loses nothing: every run handles all open
+# watering issues, not just the one that triggered it.
+concurrency:
+  group: garden
+  cancel-in-progress: false
+
+jobs:
+  water:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.title, 'water')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Count the drops and redraw
+        run: node scripts/garden.mjs water
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit
+        run: |
+          [ -f garden/.commit-message ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md garden
+          git commit -m "$(cat garden/.commit-message)"
+          git push
+
+      - name: Reply and close
+        run: node scripts/garden.mjs reply
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
