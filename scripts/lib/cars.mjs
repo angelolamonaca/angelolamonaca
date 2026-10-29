@@ -8,19 +8,20 @@ import { label } from './font.mjs';
 import { darken, lighten, luminance, mix, n, rng, smoothstep } from './util.mjs';
 import { box, cylinder, sphere, triangulate, orient } from './stl.mjs';
 
+// `plain` is the everyday word for the color, for README copy.
 export const PALETTE = [
-  { name: 'Rosso', hex: '#e8322e' },
-  { name: 'Tangerine', hex: '#ff8a1f' },
-  { name: 'Banana', hex: '#ffd23f' },
-  { name: 'Lime', hex: '#8bd346' },
-  { name: 'Lagoon', hex: '#1fb5a8' },
-  { name: 'Azure', hex: '#2f80ed' },
-  { name: 'Grape', hex: '#8e5cf7' },
-  { name: 'Bubblegum', hex: '#ff6fb5' },
-  { name: 'Pearl', hex: '#eef0f3' },
-  { name: 'Midnight', hex: '#33364a' },
-  { name: 'Mint', hex: '#7ee0c3' },
-  { name: 'Gold', hex: '#e2b33c' },
+  { name: 'Rosso', hex: '#e8322e', plain: 'red' },
+  { name: 'Tangerine', hex: '#ff8a1f', plain: 'orange' },
+  { name: 'Banana', hex: '#ffd23f', plain: 'yellow' },
+  { name: 'Lime', hex: '#8bd346', plain: 'lime green' },
+  { name: 'Lagoon', hex: '#1fb5a8', plain: 'teal' },
+  { name: 'Azure', hex: '#2f80ed', plain: 'blue' },
+  { name: 'Grape', hex: '#8e5cf7', plain: 'purple' },
+  { name: 'Bubblegum', hex: '#ff6fb5', plain: 'pink' },
+  { name: 'Pearl', hex: '#eef0f3', plain: 'white' },
+  { name: 'Midnight', hex: '#33364a', plain: 'almost black' },
+  { name: 'Mint', hex: '#7ee0c3', plain: 'mint green' },
+  { name: 'Gold', hex: '#e2b33c', plain: 'gold' },
 ];
 
 const STRIPES = ['#ffffff', '#24242c', '#ffd23f', '#2f80ed', '#e8322e'];

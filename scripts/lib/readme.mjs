@@ -101,7 +101,8 @@ ${lines.length ? `<details>\n<summary>Latest drops</summary>\n\n${lines.map((l) 
 
 ### 🧊 Spoiler
 
-<sub>This is what crop #${crop.number} grows into: a ${design.name}. Drag to spin it.</sub>
+<sub>This is what crop #${crop.number} grows into: a ${design.name}. Drag to spin it.<br>
+${design.color.plain === 'blue' ? "GitHub's 3D viewer only comes in blue, which for once is the right color." : `GitHub's 3D viewer only comes in blue, so you'll have to picture it ${design.color.plain}.`}</sub>
 
 \`\`\`stl
 ${stl.trimEnd()}

@@ -41,7 +41,8 @@ _Nobody yet. The first drop could be yours._
 
 ### 🧊 Spoiler
 
-<sub>This is what crop #1 grows into: a Rosso GT. Drag to spin it.</sub>
+<sub>This is what crop #1 grows into: a Rosso GT. Drag to spin it.<br>
+GitHub's 3D viewer only comes in blue, so you'll have to picture it red.</sub>
 
 ```stl
 solid crop1
