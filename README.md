@@ -4,14 +4,14 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.2ffa4c36.svg">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #1: blooming, 65 of 100 drops." src="garden/scene-day.786e8a3b.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.e0426f7c.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #1: blooming, 70 of 100 drops." src="garden/scene-day.72ae6b5e.svg" width="100%">
 </picture>
 </a>
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._"><img alt="Water the car" src="garden/button.0b5f59c5.svg" height="64"></a>
 
-**Crop #1 · Blooming · 💧 65 / 100 drops**<br>
+**Crop #1 · Blooming · 💧 70 / 100 drops**<br>
 <sub>I planted a toy car on 19 Jan 2024 and told you to just wait. It sprouted 1,014 days later.<br>
 My commits water it every day. You can too: one click, 5 drops, once a day.<br>
 Whoever gives the last drop gets the car, with their name on the plate.</sub>
@@ -20,13 +20,14 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 
 ### 🧑‍🌾 Gardeners
 
-_Nobody yet. The first drop could be yours._
+<a href="https://github.com/justpolidor"><img src="https://github.com/justpolidor.png?size=80" width="40" height="40" alt="@justpolidor" title="@justpolidor · 5 drops"></a>
 
 <sub>⌨️ Me, mostly through commits: 65 drops so far.</sub>
 
 <details>
 <summary>Latest drops</summary>
 
+- 💧 [@justpolidor](https://github.com/justpolidor) gave 5 drops · 30 Oct 2026
 - ⌨️ My 66 contributions on 29 Oct 2026 gave 30 drops
 - 💧 [@angelolamonaca](https://github.com/angelolamonaca) gave 5 drops · 29 Oct 2026
 - 🌱 It sprouted · 29 Oct 2026
