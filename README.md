@@ -4,8 +4,8 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.0f78f3fa.svg">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #1: ripe, 99 of 100 drops." src="garden/scene-day.7de5f1a4.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.81c2d427.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #1: ripe, 99 of 100 drops." src="garden/scene-day.72bd8d8b.svg" width="100%">
 </picture>
 </a>
 
@@ -27,6 +27,7 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 <details>
 <summary>Latest drops</summary>
 
+- ⌨️ My 82 contributions on 2 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 108 contributions on 1 Nov 2026 gave 28 drops
 - ⌨️ My 1 contribution on 30 Oct 2026 gave 1 drop
 - 💧 [@justpolidor](https://github.com/justpolidor) gave 5 drops · 30 Oct 2026
@@ -5355,7 +5356,7 @@ endsolid crop1
 
 <img alt="Just wait." src="just-wait.gif" width="400">
 
-**2026.** It sprouted. Day 1,018 and counting.
+**2026.** It sprouted. Day 1,019 and counting.
 
 </details>
 
