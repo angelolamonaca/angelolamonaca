@@ -2,17 +2,40 @@
   "version": 1,
   "plantedOn": "2024-01-19",
   "crop": {
-    "number": 1,
-    "water": 99,
-    "goal": 100,
-    "plantedAt": "2024-01-19T16:00:11Z"
+    "number": 2,
+    "water": 4,
+    "goal": 125,
+    "plantedAt": "2026-11-04T21:56:29.434Z"
   },
-  "harvests": [],
+  "harvests": [
+    {
+      "number": 1,
+      "by": "AnastasiaHuryanova",
+      "at": "2026-11-04T21:56:29.434Z",
+      "name": "Rosso GT",
+      "plantedAt": "2024-01-19T16:00:11Z"
+    }
+  ],
   "gardeners": {
-    "justpolidor": 5
+    "justpolidor": 5,
+    "AnastasiaHuryanova": 5
   },
   "ownerDrops": 94,
   "log": [
+    {
+      "at": "2026-11-04T21:56:29.434Z",
+      "who": "AnastasiaHuryanova",
+      "kind": "harvest",
+      "crop": 1,
+      "name": "Rosso GT"
+    },
+    {
+      "at": "2026-11-04T21:56:29.434Z",
+      "who": "AnastasiaHuryanova",
+      "kind": "visitor",
+      "drops": 5,
+      "issue": 3
+    },
     {
       "at": "2026-11-04T05:22:38.981Z",
       "who": "angelolamonaca",
@@ -75,13 +98,13 @@
     }
   ],
   "lastWatered": {
-    "angelolamonaca": "2026-10-29T01:02:56.347Z",
-    "justpolidor": "2026-10-30T10:38:02.797Z"
+    "AnastasiaHuryanova": "2026-11-04T21:56:29.434Z"
   },
   "processedIssues": [
+    3,
     2,
     1
   ],
   "contribCursor": "2026-11-03",
-  "rev": 16
+  "rev": 17
 }
