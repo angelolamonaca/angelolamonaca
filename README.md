@@ -4,14 +4,14 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.e1deb88c.svg">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 118 of 125 drops." src="garden/scene-day.b055b43c.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.07f48217.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.9282240a.svg" width="100%">
 </picture>
 </a>
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._"><img alt="Water the car" src="garden/button.0b5f59c5.svg" height="64"></a>
 
-**Crop #2 · Ripe · 💧 118 / 125 drops**<br>
+**Crop #2 is ripe. One more drop and that Tangerine Bug is yours.**<br>
 <sub>I planted a toy car on 19 Jan 2024 and told you to just wait. It sprouted 1,014 days later.<br>
 My commits water it every day. You can too: one click, 5 drops, once a day.<br>
 Whoever gives the last drop gets the car, with their name on the plate.</sub>
@@ -22,11 +22,12 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 
 <a href="https://github.com/AnastasiaHuryanova"><img src="https://github.com/AnastasiaHuryanova.png?size=80" width="40" height="40" alt="@AnastasiaHuryanova" title="@AnastasiaHuryanova · 5 drops"></a> <a href="https://github.com/justpolidor"><img src="https://github.com/justpolidor.png?size=80" width="40" height="40" alt="@justpolidor" title="@justpolidor · 5 drops"></a>
 
-<sub>⌨️ Me, mostly through commits: 208 drops so far.</sub>
+<sub>⌨️ Me, mostly through commits: 214 drops so far.</sub>
 
 <details>
 <summary>Latest drops</summary>
 
+- ⌨️ My 47 contributions on 8 Nov 2026 gave 6 drops
 - ⌨️ My 24 contributions on 7 Nov 2026 gave 24 drops
 - ⌨️ My 52 contributions on 6 Nov 2026 gave 30 drops
 - ⌨️ My 33 contributions on 5 Nov 2026 gave 30 drops
@@ -34,7 +35,6 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 - 🎉 Crop #1 harvested by [@AnastasiaHuryanova](https://github.com/AnastasiaHuryanova): a Rosso GT · 4 Nov 2026
 - 💧 [@AnastasiaHuryanova](https://github.com/AnastasiaHuryanova) gave 5 drops · 4 Nov 2026
 - ⌨️ My 24 contributions on 3 Nov 2026 didn't count: it was already ripe, waiting for you
-- ⌨️ My 82 contributions on 2 Nov 2026 didn't count: it was already ripe, waiting for you
 
 </details>
 
@@ -5049,7 +5049,7 @@ endsolid crop2
 
 <img alt="Just wait." src="just-wait.gif" width="400">
 
-**2026.** It sprouted. Day 1,024 and counting.
+**2026.** It sprouted. Day 1,025 and counting.
 
 </details>
 
