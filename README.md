@@ -4,8 +4,8 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.07f48217.svg">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.9282240a.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.27afbf0e.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.a470a095.svg" width="100%">
 </picture>
 </a>
 
@@ -27,6 +27,7 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 <details>
 <summary>Latest drops</summary>
 
+- ⌨️ My 13 contributions on 9 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 47 contributions on 8 Nov 2026 gave 6 drops
 - ⌨️ My 24 contributions on 7 Nov 2026 gave 24 drops
 - ⌨️ My 52 contributions on 6 Nov 2026 gave 30 drops
@@ -34,7 +35,6 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 - ⌨️ My 59 contributions on 4 Nov 2026 gave 30 drops
 - 🎉 Crop #1 harvested by [@AnastasiaHuryanova](https://github.com/AnastasiaHuryanova): a Rosso GT · 4 Nov 2026
 - 💧 [@AnastasiaHuryanova](https://github.com/AnastasiaHuryanova) gave 5 drops · 4 Nov 2026
-- ⌨️ My 24 contributions on 3 Nov 2026 didn't count: it was already ripe, waiting for you
 
 </details>
 
@@ -5049,7 +5049,7 @@ endsolid crop2
 
 <img alt="Just wait." src="just-wait.gif" width="400">
 
-**2026.** It sprouted. Day 1,025 and counting.
+**2026.** It sprouted. Day 1,026 and counting.
 
 </details>
 
