@@ -4,8 +4,8 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.6f192622.svg">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.de0441b4.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.6d725440.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.7a41e017.svg" width="100%">
 </picture>
 </a>
 
@@ -5049,7 +5049,7 @@ endsolid crop2
 
 <img alt="Just wait." src="just-wait.gif" width="400">
 
-**2026.** It sprouted. Day 1,029 and counting.
+**2026.** It sprouted. Day 1,030 and counting.
 
 </details>
 
