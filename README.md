@@ -4,8 +4,8 @@
 
 <a href="https://github.com/angelolamonaca/angelolamonaca/issues/new?title=%F0%9F%92%A7%20Water%20the%20car&body=%F0%9F%91%8B%20Thanks%20for%20helping!%20Just%20hit%20**Create**.%20The%20garden%20bot%20adds%20%F0%9F%92%A7%205%20drops%2C%20redraws%20the%20garden%20and%20closes%20this%20issue%20in%20about%20a%20minute.%0A%0A_Keep%20the%20title%20as%20it%20is.%20You%20can%20water%20once%20a%20day._">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.d26c53cb.svg">
-  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.46f338b6.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="garden/scene-night.953710ba.svg">
+  <img alt="A car growing out of the ground like a plant, in front of a pink wall. Crop #2: ripe, 124 of 125 drops." src="garden/scene-day.036bd031.svg" width="100%">
 </picture>
 </a>
 
@@ -27,6 +27,7 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 <details>
 <summary>Latest drops</summary>
 
+- ⌨️ My 1 contribution on 26 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 5 contributions on 25 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 16 contributions on 24 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 10 contributions on 23 Nov 2026 didn't count: it was already ripe, waiting for you
@@ -34,7 +35,6 @@ Whoever gives the last drop gets the car, with their name on the plate.</sub>
 - ⌨️ My 28 contributions on 21 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 24 contributions on 20 Nov 2026 didn't count: it was already ripe, waiting for you
 - ⌨️ My 20 contributions on 19 Nov 2026 didn't count: it was already ripe, waiting for you
-- ⌨️ My 6 contributions on 18 Nov 2026 didn't count: it was already ripe, waiting for you
 
 </details>
 
@@ -5049,7 +5049,7 @@ endsolid crop2
 
 <img alt="Just wait." src="just-wait.gif" width="400">
 
-**2026.** It sprouted. Day 1,042 and counting.
+**2026.** It sprouted. Day 1,043 and counting.
 
 </details>
 
